@@ -1,6 +1,6 @@
 <?php
 $conf=array(
-	"admin_user" => "yang2210670",
-	"admin_pwd" => "zty9575964",
+	"admin_user" => "admin",
+	"admin_pwd" => "admin",
 );
 ?>
